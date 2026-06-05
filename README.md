@@ -11,4 +11,3 @@ An enthusiast in the world of Robotics & Embedded systems.
 ![](https://github-readme-stats.shion.dev/api?username=RohithPVenugopal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=RohithPVenugopal&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RohithPVenugopal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
